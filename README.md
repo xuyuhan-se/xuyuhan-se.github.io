@@ -5,7 +5,7 @@ Yu Han Xu'sTech Blog
 👤 关于我
 - **姓名**：许俞涵
 - **专业**：西安科技大学 - 软件工程
-- **GitHub**：[xuyuhan-se](https://github.com/xuyuhan-se)
+- **GitHub**：xuyuhan-se
 - **邮箱**：yu.han.xu@outlook.com
 
 ## 📚 技术方向
@@ -20,8 +20,9 @@ Yu Han Xu'sTech Blog
 - 学习笔记与代码片段
 
 ## 📝 博客文章
-*（持续学习中）*
+*（持续学习 持续分享）*
 
-## 🔗 联系我
-- GitHub: [@xuyuhan-se](https://github.com/xuyuhan-se)
+## 🔗 重要链接
+- GitHub主页: https://github.com/xuyuhan-se
 - Email: yu.han.xu@outlook.com
+- Github项目仓库：https://github.com/xuyuhan-se/my-projects
